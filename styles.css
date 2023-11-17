@@ -163,6 +163,7 @@ body {
   margin: 0;
   padding: 0;
   background-repeat:no-repeat;
+  min-height: 100vh;
 /* Menghilangkan margin bawaan pada body */
 /* Menghilangkan padding bawaan pada body */
 }
